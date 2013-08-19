@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "coffee app.coffee"
+    "start": "iced app.coffee"
   },
   "description": "spacefinity.com payment system",
   "dependencies": {
     "firebase": "~0.6.1",
     "balanced-official": "~0.3.3",
-    "coffee-script": "~1.6.3"
+    "iced-coffee-script": "~1.6.3-f"
   }
 }
