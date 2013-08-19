@@ -1,0 +1,14 @@
+{
+  "name": "spacefinity-payments",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "coffee app.coffee"
+  },
+  "description": "spacefinity.com payment system",
+  "dependencies": {
+    "firebase": "~0.6.1",
+    "balanced-official": "~0.3.3",
+    "coffee-script": "~1.6.3"
+  }
+}
